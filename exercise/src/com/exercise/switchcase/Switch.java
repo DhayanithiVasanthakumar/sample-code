@@ -1,10 +1,9 @@
 package com.exercise.switchcase;
-import java.util.Scanner;
+
 
 public class Switch {
 	public static void switchCase(int n) {
 		
-		System.out.println("Enter Grade");
 		String grade;
 	
 		switch (n) {
